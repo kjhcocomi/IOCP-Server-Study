@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\devOps\CPP_Server\Server\Binary\Debug\GameServer.exe</FullPath>
+      <FullPath>C:\devOps\CPP_Server\IOCP-Server-Study\Server\Binary\Debug\GameServer.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
